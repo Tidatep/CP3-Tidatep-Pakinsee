@@ -2,6 +2,7 @@ FE = 67.5
 GB = 55.4
 ICS = 51.3
 CP = 43
+print("--- Your Score ---")
 print("Foundation English :",FE)
 print("General Business :",GB)
 print("Introduction to Computer Systems :",ICS)
